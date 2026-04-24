@@ -1,0 +1,30 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+.dockerignore
+docker-compose*.yml
+
+# Tests
+.coverage
+htmlcov/
+
+# Misc
+*.md
